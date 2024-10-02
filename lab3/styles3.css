@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#img1 {
+    float: left;
+    width: 30%;
+    background-color: lightgreen;
+    height: 700px;
+}
+
+#header {
+    float: left;
+    width: 70%;
+    background-color: lightblue;
+    height: 100px;
+}
+
+#content {
+    float: left;
+    width: 70%;
+    background-color: lightyellow;
+    height: 600px;
+}
+
+#footer {
+    float: left;
+    width: 70%;
+    background-color: bisque;
+    height: 100px;
+}
+
+#img2 {
+    float: left;
+    width: 30%;
+    background-color: violet;
+    height: 100px;
+}

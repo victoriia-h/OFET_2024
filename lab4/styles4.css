@@ -1,0 +1,24 @@
+body {
+    font-family: "Tahoma", sans-serif;
+    margin: 20px;
+}
+
+button {
+    background-color: #408f8f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #3c7c7c;
+}
+
+img {
+    margin: 20px 0;
+    display: block;
+}
